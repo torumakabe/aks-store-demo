@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "src/ai-service"
+		},
+		{
+			"path": "src/makeline-service"
+		},
+		{
+			"path": "src/order-service"
+		},
+		{
+			"path": "src/product-service"
+		},
+		{
+			"path": "src/store-admin"
+		},
+		{
+			"path": "src/store-front"
+		},
+		{
+			"path": "src/virtual-customer"
+		},
+		{
+			"path": "src/virtual-worker"
+		},
+	],
+	"settings": {}
+}
