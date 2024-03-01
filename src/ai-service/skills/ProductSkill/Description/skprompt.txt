@@ -40,6 +40,11 @@ tags: dog, cat, comfort
 +++++
 Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.
 
+describe the following product sold in a pet supplies store:
+product name: うさぎ牧草一番刈り
+tags: うさぎ, 牧草
++++++
+初夏に刈り取った一番刈りの牧草を丁寧に手詰めしています。低カロリーで繊維質が豊富。愛兔の健康のために。
 
 describe the following product sold in a pet supplies store:
 Product name: {{$name}}
