@@ -59,6 +59,10 @@ func OrderMiddleware(orderService *OrderService) gin.HandlerFunc {
 
 // Fetches orders from the order queue and stores them in database
 func fetchOrders(c *gin.Context) {
+	// 関数の開始をログに記録する
+	//log.Printf("fetchOrders start")
+
+	// Get the order service
 	client, ok := c.MustGet("orderService").(*OrderService)
 	if !ok {
 		log.Printf("Failed to get order service")
